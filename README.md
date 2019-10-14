@@ -28,3 +28,4 @@ python code/main.py --experiment_name=rnet_best --dropout=0.20 --batch_size=20 -
 cd experiments # Go to experiments directory
 tensorboard --logdir=. --port=5678 # Start TensorBoard
 ```
+[blog url](https://towardsdatascience.com/nlp-building-a-question-answering-model-ed0529a68c54#targetText=Stanford%20Question%20Answering%20Dataset%20(SQuAD)%20is%20a%20new%20reading%20comprehension,from%20the%20corresponding%20reading%20passage.)
